@@ -2,6 +2,6 @@
 const name = "Liza";
 const city = "New York";
 
-const image = "https://i.imgur.com/mV8PQxj.gif";
+const image = "https://media.tenor.com/sidMbBYqr0EAAAAC/meme-made.gif";
 
 export { name, city, image };
